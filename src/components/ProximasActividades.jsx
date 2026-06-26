@@ -21,7 +21,7 @@ export default function ProximasActividades() {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-4">
-            Próximas Actividades
+            Actividades Realizadas
           </h2>
 
           <div className="mt-12 space-y-6">

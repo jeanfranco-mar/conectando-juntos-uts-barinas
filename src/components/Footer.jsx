@@ -42,7 +42,7 @@ export default function Footer() {
         <div className="border-t border-white/20 pt-6">
           <div className="flex justify-center items-center">
             <p className="text-sm m-0">
-              © 2025 Conectando Juntos UTS. Todos los derechos reservados.
+              © 2026 Conectando Juntos UTS. Todos los derechos reservados.
             </p>
           </div>
         </div>
