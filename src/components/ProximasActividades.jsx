@@ -4,7 +4,7 @@ export default function ProximasActividades() {
   const actividades = [
     {
       numero: "01",
-      titulo: "Visita a los abuelitos en la capilla el calvario.",
+      titulo: "Entrega de desayunos en Martha y Maria",
     },
     {
       numero: "02",
