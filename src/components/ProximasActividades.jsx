@@ -8,11 +8,11 @@ export default function ProximasActividades() {
     },
     {
       numero: "02",
-      titulo: "Ayuda a los abuelitos. Donaciones",
+      titulo: "Jornada recreativa infantil al aire libre en las instalaciones integradas de la Posada La Pechera.",
     },
     {
       numero: "03",
-      titulo: "Compartir entre juegos, risas y cantos.",
+      titulo: "Impartición de charlas formativas sobre proyectos de estudio a futuro y seguridad vial para alumnos de bachillerato.",
     },
   ];
 
@@ -53,7 +53,7 @@ export default function ProximasActividades() {
         {/* Contador */}
         <div className="text-center mt-20">
           <div className="inline-block bg-primary text-white px-12 py-8 rounded-2xl shadow-xl">
-            <div className="text-6xl font-bold mb-2">+40</div>
+            <div className="text-6xl font-bold mb-2">+30</div>
             <div className="text-xl">
               Personas comprometidas en esta maravillosa labor!
             </div>
